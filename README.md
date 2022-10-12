@@ -12,8 +12,6 @@ Almacenar los registros en una base de datos **SQLite**.
 Crear una vista **HTML** donde se visualicen los registros almacenados.
 
 ## Instrucciones
-
-
 -**Instalar** entorno virtual por ejemplo
     >Windows-- pip install -y python3-venv
     >linux  -- sudo apt install -y python3-venv
